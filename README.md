@@ -1,17 +1,10 @@
 # Hi, I'm Samuel
 
-I'm a CS student at Sahrdaya College of Engineering and Technology in Thrissur, Kerala. I build websites for local businesses, and I spend a lot of my weekends at hackathons.
+I'm a CS student at Sahrdaya College of Engineering and Technology in Thrissur, Kerala, and I spend most weekends at hackathons.
 
-Most of my work is Next.js and React with Tailwind. I like animation (Framer Motion is my weakness), and for small client sites I usually skip a real backend and send form submissions straight into a Google Sheet with Apps Script. It's cheap and the owner already knows how to use a spreadsheet.
+I'm curious about building things that look completely useless at first. Most of my best ideas started as "why not?" and then turned out to be something that could help someone else. That curiosity has taken me to the top 15 at Useless Project S2.0, the top 278 at Useless Project 3.0, and a win at a Codex hackathon.
 
-## Work I do
-
-I take on freelance websites for small service businesses around Thrissur and Kochi. So far that's been dental clinics and coaching centres. I'd like to do more for salons, Ayurveda clinics, tattoo and nail studios and wedding vendors.
-
-If you run one of those and your Google or Instagram page is the only thing people find, message me. I'll tell you honestly whether a website will help you.
-
-WhatsApp: [+91 96567 06181](https://wa.me/919656706181)
-Email: [samuelthomasc20@gmail.com](mailto:samuelthomasc20@gmail.com)
+[![Letterboxd](https://img.shields.io/badge/Follow_me_on_Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=00e054)](https://letterboxd.com/thesamtom/)
 
 ## Hackathon stuff
 
@@ -21,18 +14,29 @@ Email: [samuelthomasc20@gmail.com](mailto:samuelthomasc20@gmail.com)
 | [Useless_nos](https://github.com/noel-ult/Useless_nos) | Top 15 at Useless Project S2.0. Built with [@noel-ult](https://github.com/noel-ult). |
 | [Chooru Varal](https://github.com/noel-ult/chooru-varal) | Top 278 at Useless Project 3.0. Built with [@noel-ult](https://github.com/noel-ult). |
 
+## Client work
+
+Some simple frontend work for businesses in my own neighbourhood. Nothing fancy, just clean sites that do their job.
+
+| Project | What it is |
+|---|---|
+| [Riverstone](https://github.com/thesamtom/riverstone) | Website for Riverstone Dental Care in Puzhakkal, Thrissur. |
+| [Hari Suchetha](https://github.com/thesamtom/hari-suchetha) | Website for a local business near me. |
+
 ## What I use
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,framer,nodejs,vercel,git,figma&theme=dark" alt="Next.js, React, TypeScript, Tailwind, Framer Motion, Node, Vercel, Git, Figma" />
 
-I also do prompt engineering, mostly writing structured prompts so AI tools give me something usable the first time.
+Mostly Next.js, React and Tailwind. Framer Motion is my weakness. I also do prompt engineering, mostly writing structured prompts so AI tools give me something usable the first time.
 
 ## Off the clock
 
-I watch a lot of films and log all of them on [Letterboxd](https://letterboxd.com/thesamtom/). If you want to know what I'm like, that page tells you more than my commit history. Send me recommendations, especially Malayalam ones.
+I watch a lot of films and log every one on [Letterboxd](https://letterboxd.com/thesamtom/). It's the best place to see my taste, my hot takes and my questionable ratings, and honestly it says more about me than my commit history does. Follow me, argue with my reviews, and send me recommendations, especially Malayalam ones.
+
+**[letterboxd.com/thesamtom](https://letterboxd.com/thesamtom/)**
 
 ## Find me
 
-[LinkedIn](https://www.linkedin.com/in/samuel-thomas-c-364569330/) · [Instagram](https://www.instagram.com/thesamtom/) · [Letterboxd](https://letterboxd.com/thesamtom/)
+[Email](mailto:samuelthomasc20@gmail.com) · [WhatsApp](https://wa.me/919656706181) · [LinkedIn](https://www.linkedin.com/in/samuel-thomas-c-364569330/) · [Instagram](https://www.instagram.com/thesamtom/) · [Letterboxd](https://letterboxd.com/thesamtom/)
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=thesamtom&show_icons=true&theme=dark&hide_border=true" />
