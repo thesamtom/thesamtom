@@ -38,7 +38,9 @@ I watch a lot of films and log every one on [Letterboxd](https://letterboxd.com/
 **[letterboxd.com/thesamtom](https://letterboxd.com/thesamtom/)**
 
 ## Find me
-
-[Email](mailto:samuelthomasc20@gmail.com) · [WhatsApp](https://wa.me/919656706181) · [LinkedIn](https://www.linkedin.com/in/samuel-thomas-c-364569330/) · [Instagram](https://www.instagram.com/thesamtom/) · [Letterboxd](https://letterboxd.com/thesamtom/)
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=thesamtom&show_icons=true&theme=dark&hide_border=true" />
+ 
+<a href="mailto:samuelthomasc20@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://wa.me/919656706181"><img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://www.linkedin.com/in/samuel-thomas-c-364569330/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/thesamtom/"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://letterboxd.com/thesamtom/"><img src="https://img.shields.io/badge/Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=00e054" alt="Letterboxd" /></a>
