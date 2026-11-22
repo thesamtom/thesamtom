@@ -12,7 +12,8 @@ Films feed that curiosity more than anything else, so I log every one I watch on
 
 | Project | What happened |
 |---|---|
-| [Akshara](https://github.com/thesamtom/akshara) | A Malayalam dyslexia reading tool. Won a Codex hackathon. |
+| [Akshara](https://github.com/thesamtom/akshara) | Top 3 at the IncluCode powered by Codex hackathon. |
+| [Two Spies](https://github.com/thesamtom/game-jam) | Top 5 at the Codex community game jam. |
 | [Useless_nos](https://github.com/noel-ult/Useless_nos) | Top 15 at Useless Project S2.0. Built with [@noel-ult](https://github.com/noel-ult). |
 | [Chooru Varal](https://github.com/noel-ult/chooru-varal) | Top 278 at Useless Project 3.0. Built with [@noel-ult](https://github.com/noel-ult). |
 
