@@ -2,7 +2,7 @@
 
 I'm a CS student at Sahrdaya College of Engineering and Technology in Thrissur, Kerala, and I spend most weekends at hackathons.
 
-I'm curious about building things that look completely useless at first. Most of my best ideas started as "why not?" and then turned out to be something that could help someone else. That curiosity has taken me to the top 15 at Useless Project S2.0, the top 278 at Useless Project 3.0, and a win at a Codex hackathon.
+I'm curious about building things that look completely useless at first. Most of my best ideas started as "why not?" and then turned out to be something that could help someone else. That curiosity has taken me to the top 15 at Useless Project S2.0, the top 278 at Useless Project 3.0, and to win 2 major Codex hackathons.
 
 Films feed that curiosity more than anything else, so I log every one I watch on [Letterboxd](https://letterboxd.com/thesamtom/). It's a diary of what sparks my ideas and the easiest way to get to know me, so follow along and tell me what to watch next.
 
