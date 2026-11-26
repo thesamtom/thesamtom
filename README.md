@@ -2,7 +2,7 @@
 
 I'm a CS student at Sahrdaya College of Engineering and Technology in Thrissur, Kerala, and I spend most weekends at hackathons.
 
-I'm curious about building things that look completely useless at first. Most of my best ideas started as "why not?" and then turned out to be something that could help someone else. That curiosity has taken me to the top 15 at Useless Project S2.0, the top 278 at Useless Project 3.0, and to win 2 major Codex hackathons.
+I'm curious about building things that look completely useless at first. Most of my best ideas started as "why not?" and then turned out to be something that could help someone else. That curiosity has taken me to the top 15 at Useless Project S2.0, the top 120 at Useless Project 3.0, and to win 2 major Codex hackathons.
 
 Films feed that curiosity more than anything else, so I log every one I watch on [Letterboxd](https://letterboxd.com/thesamtom/). It's a diary of what sparks my ideas and the easiest way to get to know me, so follow along and tell me what to watch next.
 
@@ -15,7 +15,7 @@ Films feed that curiosity more than anything else, so I log every one I watch on
 | [Akshara](https://github.com/thesamtom/akshara) | Top 3 at the IncluCode powered by Codex hackathon. |
 | [Two Spies](https://github.com/thesamtom/game-jam) | Top 5 at the Codex community game jam. |
 | [Useless_nos](https://github.com/noel-ult/Useless_nos) | Top 15 at Useless Project S2.0. Built with [@noel-ult](https://github.com/noel-ult). |
-| [Chooru Varal](https://github.com/noel-ult/chooru-varal) | Top 278 at Useless Project 3.0. Built with [@noel-ult](https://github.com/noel-ult). |
+| [Chooru Varal](https://github.com/noel-ult/chooru-varal) | Top 120 at Useless Project 3.0. Built with [@noel-ult](https://github.com/noel-ult). |
 
 ## Client work
 
